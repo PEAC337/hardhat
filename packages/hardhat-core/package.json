@@ -126,7 +126,7 @@
     "io-ts": "1.10.4",
     "json-stream-stringify": "^3.1.4",
     "keccak": "^3.0.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.18.1",
     "mnemonist": "^0.38.0",
     "mocha": "^10.0.0",
     "p-map": "^4.0.0",
@@ -141,7 +141,7 @@
     "tsort": "0.0.1",
     "undici": "^5.14.0",
     "uuid": "^8.3.2",
-    "ws": "^7.4.6"
+    "ws": "^8.20.1"
   },
   "peerDependencies": {
     "ts-node": "*",
